@@ -1,4 +1,4 @@
-Steps to run Project on your local environment
+Steps to run Project in your local environment
 
 Step 1: git clone https://github.com/para25/Iphone3dWebsite/edit/master/README.md
 
